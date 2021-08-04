@@ -1,0 +1,7 @@
+domain: shengyu.io
+layout:
+- go.kubebuilder.io/v3
+multigroup: true
+projectName: crdhi
+repo: shengyu.io/crdhi
+version: "3"
